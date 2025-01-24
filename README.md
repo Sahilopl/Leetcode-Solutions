@@ -23,7 +23,7 @@ leetcode-solutions/
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/leetcode-solutions.git
+git clone https://github.com/Sahilopl/leetcode-solutions.git
 cd leetcode-solutions
 
 Browse the solutions by category.
